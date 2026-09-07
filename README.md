@@ -1,6 +1,16 @@
 # 💫 About Me:
-Hi there, I'm Shabi!<br>Software Engineer | Full Stack Developer<br>I am a results-driven Full Stack Software Engineer passionate about building scalable, high-performance applications. I specialize in bridging the gap between robust backend architecture and intuitive frontend user experiences. From designing efficient databases to crafting responsive UIs, I take pride in writing clean, maintainable code that delivers tangible, real-world business value.<br><br>Currently, I am applying these principles to architect and build a scalable SaaS platform utilizing Next.js, Node.js, and PostgreSQL. Because I believe in continuous growth, I am constantly expanding my technical horizons. I am presently focused on mastering advanced cloud deployments using AWS and Docker, optimizing CI/CD pipelines, and learning Go (Golang) to build high-performance microservices. Additionally, I am exploring innovative ways to integrate AI capabilities into modern web applications.<br><br>I am a strong advocate for the developer community and am always looking to collaborate on open-source projects related to developer tooling and full-stack web frameworks. I genuinely enjoy sharing knowledge and welcome conversations around system design, full-stack architecture, React best practices, and database optimization. On a lighter note, despite my ability to navigate complex systems, you'll often find that I can debug intricate code logic significantly faster than I can figure out how to operate the office coffee machine!
+# Hi there, I'm Shabi! 👋
+**Full Stack Software Engineer**
 
+I build scalable, high-performance applications. I specialize in designing robust backend architectures and pairing them with intuitive frontend experiences, focusing on clean, maintainable code that solves real business problems.
+
+### 🚀 What I'm doing right now:
+* 🔭 **Building:** A scalable SaaS platform utilizing Next.js, Node.js, and PostgreSQL.
+* ⚙️ **Mastering:** Advanced cloud deployments (AWS, Docker) and CI/CD pipeline optimization.
+* 🌱 **Learning:** Go (Golang) for high-performance microservices, and AI integration for modern web apps.
+
+### 🤝 Let's connect:
+I am a strong advocate for the developer community and love collaborating on open-source developer tools. I’m always open to chatting about system design, full-stack architecture, React best practices, or database optimization.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shabi.mughal.505) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shabi-mughal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shabiking40@gmail.com) 
