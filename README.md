@@ -17,7 +17,7 @@ I bridge the gap between complex backend system architecture and clean, user-fac
 ### 🚀 Current Status
 * 🎓 **Education:** BS Computer Science, University of Central Punjab (2023 – 2026)
 * 🏆 **Certifications:** Google AI Essentials, AWS Prompt Engineering, Azure Fundamentals, Google UX Design
-* 🔭 **Currently Building:** [TaskPoint](https://github.com/taskpointdot) — A dual-platform peer-to-peer labour marketplace for Pakistan.
+* 🔭 **Currently Building:** [TaskPoint]([https://github.com/shabicreations033/TaskPoint-App]) — A dual-platform peer-to-peer labour marketplace for Pakistan.
 * 🌱 **Upskilling:** Advanced Cloud Architecture (Azure/AWS) and API Workflow Automation (n8n).
 
 ---
@@ -37,7 +37,7 @@ I bridge the gap between complex backend system architecture and clean, user-fac
 
 ### 🗂️ Featured Architecture & Projects
 
-*   **[TaskPoint (Labour Marketplace)](https://github.com/taskpointdot)** <br> Engineered a cross-platform (Android/Web) marketplace featuring automated CNIC verification, live location tracking, SOS logging, and real-time Cloud Firestore data sync. *(Flutter, Dart, Firebase)*
+*   **[TaskPoint (Labour Marketplace)](https://github.com/shabicreations033/TaskPoint-App)** <br> Engineered a cross-platform (Android/Web) marketplace featuring automated CNIC verification, live location tracking, SOS logging, and real-time Cloud Firestore data sync. *(Flutter, Dart, Firebase)*
 *   **[AI Smart Warehouse & Delivery](https://github.com/shabicreations033/AI-Smart-Warehouse-and-Delivery-Management-System)** <br> Architected a role-based logistics platform utilizing AI route optimization, smart staff load-balancing, and predictive 30-day inventory forecasting. *(Node.js, Express, MongoDB, Python)*
 *   **[SafeState Cryptography Suite](https://github.com/shabicreations033/SafeState-Multi-Layered-Cryptography)** <br> Implemented a secure data vault utilizing AES-256 encryption, adaptive salting, and advanced algorithmic cryptographic checks. *(Node.js, Express, MongoDB)*
 *   **[Social Media Analytical Dashboard](https://github.com/shabicreations033/Social-media-Analytics-Dashboard)** <br> Designed robust APIs and schemas to securely render interactive, real-time Chart.js analytics for impressions and audience growth. *(React, Node.js, MongoDB)*
