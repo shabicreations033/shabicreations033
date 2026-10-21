@@ -17,7 +17,7 @@ I bridge the gap between complex backend system architecture and clean, user-fac
 ### 🚀 Current Status
 * 🎓 **Education:** BS Computer Science, University of Central Punjab (2023 – 2026)
 * 🏆 **Certifications:** Google AI Essentials, AWS Prompt Engineering, Azure Fundamentals, Google UX Design
-* 🔭 **Currently Building:** [TaskPoint]([https://github.com/shabicreations033/TaskPoint-App]) — A dual-platform peer-to-peer labour marketplace for Pakistan.
+* 🔭 **Currently Building:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App) — A dual-platform peer-to-peer labour marketplace for Pakistan.
 * 🌱 **Upskilling:** Advanced Cloud Architecture (Azure/AWS) and API Workflow Automation (n8n).
 
 ---
