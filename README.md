@@ -3,22 +3,22 @@
 <p align="center"><i>Bold Ideas, Flawless Execution.</i></p>
 
 <p align="center">
+  <a href="https://shabimughal.dev"><img src="https://img.shields.io/badge/Portfolio-shabimughal.dev-1D1D1B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/shabi-mughal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hi.shabimughal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/923241771864"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <!-- 💡 Replace '#' below with your actual portfolio URL once it is live -->
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1D1D1B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-I bridge the gap between complex backend system architecture and clean, user-facing application development. I specialize in building scalable platforms across web and mobile, engineering secure core systems, and turning raw data into clear insights. My focus is always on performance, reliability, and writing highly maintainable code.
+I build web and mobile platforms, secure core systems and data dashboards. I care about performance, reliability and code that is easy to maintain.
 
 ### 🚀 Current Status
 * 🎓 **Education:** BS Computer Science, University of Central Punjab (2023 – 2026)
 * 🏆 **Certifications:** Google AI Essentials, AWS Prompt Engineering, Azure Fundamentals, Google UX Design
-* 🔭 **Currently Building:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App) — A dual-platform peer-to-peer labour marketplace for Pakistan.
-* 🌱 **Upskilling:** Advanced Cloud Architecture (Azure/AWS) and API Workflow Automation (n8n).
+* 🔭 **Latest project:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App), a peer-to-peer labour marketplace for Pakistan on Android and Web.
+* 🌱 **Learning:** cloud architecture (Azure and AWS) and workflow automation with n8n.
+* 💼 **Open to:** full-time roles with a team that ships real products.
 
 ---
 
@@ -35,14 +35,16 @@ I bridge the gap between complex backend system architecture and clean, user-fac
 
 ---
 
-### 🗂️ Featured Architecture & Projects
+### 🗂️ Featured Projects
 
-*   **[TaskPoint (Labour Marketplace)](https://github.com/shabicreations033/TaskPoint-App)** <br> Engineered a cross-platform (Android/Web) marketplace featuring automated CNIC verification, live location tracking, SOS logging, and real-time Cloud Firestore data sync. *(Flutter, Dart, Firebase)*
-*   **[AI Smart Warehouse & Delivery](https://github.com/shabicreations033/AI-Smart-Warehouse-and-Delivery-Management-System)** <br> Architected a role-based logistics platform utilizing AI route optimization, smart staff load-balancing, and predictive 30-day inventory forecasting. *(Node.js, Express, MongoDB, Python)*
-*   **[SafeState Cryptography Suite](https://github.com/shabicreations033/SafeState-Multi-Layered-Cryptography)** <br> Implemented a secure data vault utilizing AES-256 encryption, adaptive salting, and advanced algorithmic cryptographic checks. *(Node.js, Express, MongoDB)*
-*   **[Social Media Analytical Dashboard](https://github.com/shabicreations033/Social-media-Analytics-Dashboard)** <br> Designed robust APIs and schemas to securely render interactive, real-time Chart.js analytics for impressions and audience growth. *(React, Node.js, MongoDB)*
-*   **[TechFix Accounting System](https://github.com/shabicreations033/Accounting-System)** <br> Built a flawless CRUD architecture to handle a full financial accounting cycle, from journal entries to secure statement generation. *(Node.js, Express, MongoDB)*
-*   **[FluxLEX Lexical Analyzer](https://github.com/shabicreations033/Lexical-Analyzer)** <br> Developed a web-based lexical analyzer running on a high-performance C/Flex tokenization engine. *(C, Node.js, Express)*
+*   **[TaskPoint (Labour Marketplace)](https://github.com/shabicreations033/TaskPoint-App)** <br> A marketplace for Android and Web with CNIC verification, live location tracking, SOS logging and real-time data in Cloud Firestore. *(Flutter, Dart, Firebase)*
+*   **[AI Smart Warehouse & Delivery](https://github.com/shabicreations033/AI-Smart-Warehouse-and-Delivery-Management-System)** <br> A role-based logistics platform. A Python service orders delivery routes, recommends the least-loaded staff member and forecasts stock from 30 days of sales. *(Node.js, Express, MongoDB, Python)*
+*   **[SafeState Cryptography Suite](https://github.com/shabicreations033/SafeState-Multi-Layered-Cryptography)** <br> Classical ciphers and AES-256 side by side, with a secure vault, Bcrypt password hashing and a GCD-based key check for the Hill cipher. *(Node.js, Express, MongoDB)*
+*   **[Social Media Analytical Dashboard](https://github.com/shabicreations033/Social-media-Analytics-Dashboard)** <br> A REST API and MongoDB schemas behind interactive Chart.js charts for impressions, engagement and audience growth. *(React, Node.js, MongoDB)*
+*   **[TechFix Accounting System](https://github.com/shabicreations033/Accounting-System)** <br> A full accounting cycle, from journal entries and ledger posting to the Income Statement and Statement of Financial Position. *(Node.js, Express, MongoDB)*
+*   **[FluxLEX Lexical Analyzer](https://github.com/shabicreations033/Lexical-Analyzer)** <br> A web-based lexical analyzer built on a C/Flex tokenization engine. *(C, Node.js, Express)*
+*   **[Deadlock Detection](https://github.com/shabicreations033/Deadlock-Detection)** <br> A C++ tool that detects, prevents and resolves deadlocks with Resource Allocation Graphs and Wait-For Graphs. *(C++)*
+*   **[Netflix Data Analysis](https://github.com/shabicreations033/Netflix-Data-Analysis)** <br> An exploratory analysis of the Netflix catalog, with a Pandas cleaning pipeline and Matplotlib, Seaborn and Plotly charts. *(Python)*
 
 ---
 
