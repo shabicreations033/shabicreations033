@@ -15,9 +15,10 @@ I build web and mobile platforms, secure core systems and data dashboards. I car
 
 ### 🚀 Current Status
 * 🎓 **Education:** BS Computer Science, University of Central Punjab (2023 – 2026)
-* 🏆 **Certifications:** Google AI Essentials, AWS Prompt Engineering, Azure Fundamentals, Google UX Design
+* 🏆 **Certifications:** NASA Open Science (Essentials and 101), Cisco Data Science Essentials with Python, Google AI Essentials, Google UX Design, Azure Fundamentals, AWS Prompt Engineering, n8n Workflows
 * 🔭 **Latest project:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App), a peer-to-peer labour marketplace for Pakistan on Android and Web.
-* 🌱 **Learning:** cloud architecture (Azure and AWS) and workflow automation with n8n.
+* 🌱 **Learning:** cloud architecture (Azure and AWS), workflow automation with n8n and open science.
+* 🌐 **This portfolio:** [shabimughal.dev](https://shabimughal.dev), a pre-rendered React and Vite site with a WebGL ink theme switch. [Source](https://github.com/shabicreations033/shabimughal.dev)
 * 💼 **Open to:** full-time roles with a team that ships real products.
 
 ---
