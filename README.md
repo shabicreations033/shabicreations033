@@ -16,7 +16,7 @@ I build web and mobile platforms, secure core systems and data dashboards. I car
 ### 🚀 Current Status
 * 🎓 **Education:** BS Computer Science, University of Central Punjab (2023 – 2026)
 * 🏆 **Certifications:** NASA Open Science (101 & Essentials), Cisco Data Science Essentials with Python, Google AI Essentials, Google UX Design, Azure Fundamentals, AWS Prompt Engineering, n8n Workflows
-* 🔭 **Latest project:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App) ([Admin Portal](https://github.com/shabicreations033/TaskPoint-Admin)), a peer-to-peer labour marketplace for Pakistan on Android and Web.
+* 🔭 **Latest project:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App), a peer-to-peer labour marketplace for Pakistan on Android and Web.
 * 🌱 **Learning:** cloud architecture (Azure and AWS), workflow automation with n8n and open science.
 * 🌐 **This portfolio:** [shabimughal.dev](https://shabimughal.dev), a pre-rendered React and Vite site with a WebGL ink theme switch. ([Source](https://github.com/shabicreations033/shabimughal.dev))
 * 💼 **Open to:** full-time roles with a team that ships real products.
@@ -38,7 +38,7 @@ I build web and mobile platforms, secure core systems and data dashboards. I car
 
 ### 🗂️ Featured Projects
 
-*   **[TaskPoint (Labour Marketplace)](https://github.com/shabicreations033/TaskPoint-App)** · **[Admin Portal](https://github.com/shabicreations033/TaskPoint-Admin)** <br> A marketplace for Android and Web with CNIC verification, live location tracking, SOS logging and real-time data in Cloud Firestore. *(Flutter, Dart, Firebase)*
+*   **[TaskPoint (Labour Marketplace)](https://github.com/shabicreations033/TaskPoint-App)** <br> A marketplace for Android and Web with CNIC verification, live location tracking, SOS logging and real-time data in Cloud Firestore. *(Flutter, Dart, Firebase)*
 *   **[AI Smart Warehouse & Delivery](https://github.com/shabicreations033/AI-Smart-Warehouse-and-Delivery-Management-System)** <br> A role-based logistics platform. A Python/Flask service orders delivery routes, recommends the least-loaded staff member and forecasts stock from 30 days of sales. *(Node.js, Express, MongoDB, Python, Flask)*
 *   **[SafeState Cryptography Suite](https://github.com/shabicreations033/SafeState-Multi-Layered-Cryptography)** <br> Classical ciphers and AES-256 side by side, with a secure vault, Bcrypt password hashing and a GCD-based key check for the Hill cipher. *(Node.js, Express, MongoDB)*
 *   **[Social Media Analytical Dashboard](https://github.com/shabicreations033/Social-media-Analytics-Dashboard)** <br> A session-protected analytics dashboard with full CRUD management, prepared-statement JSON APIs and interactive Chart.js charts for impressions, engagement and audience growth. *(PHP, MySQL, JavaScript, Chart.js)*
