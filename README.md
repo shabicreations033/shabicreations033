@@ -14,7 +14,7 @@
 I build web and mobile platforms, secure core systems and data dashboards. I care about performance, reliability and code that is easy to maintain.
 
 ### 🚀 Current Status
-* 🎓 **Education:** BS Computer Science, University of Central Punjab (2023 – 2026)
+* 🎓 **Education:** BS Computer Science, University of Central Punjab (2022 – 2026)
 * 🏆 **Certifications:** NASA Open Science (101 & Essentials), Cisco Data Science Essentials with Python, Google AI Essentials, Google UX Design, Azure Fundamentals, AWS Prompt Engineering, n8n Workflows
 * 🔭 **Latest project:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App), a peer-to-peer labour marketplace for Pakistan on Android and Web.
 * 🌱 **Learning:** cloud architecture (Azure and AWS), workflow automation with n8n and open science.
