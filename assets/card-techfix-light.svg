@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150" font-family="Montserrat,'Segoe UI',Helvetica,Arial,sans-serif"><rect x=".5" y=".5" width="479" height="149" rx="14" fill="#f7f7fa" stroke="#e4e4ea"/><g><g transform="translate(22,18) scale(1.0)" fill="none" stroke="#000033" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="16" height="20" x="4" y="2" rx="2" />
+  <line x1="8" x2="16" y1="6" y2="6" />
+  <line x1="16" x2="16" y1="14" y2="18" />
+  <path d="M16 10h.01" />
+  <path d="M12 10h.01" />
+  <path d="M8 10h.01" />
+  <path d="M12 14h.01" />
+  <path d="M8 14h.01" />
+  <path d="M12 18h.01" />
+  <path d="M8 18h.01" /></g><animate attributeName="opacity" values="1;.55;1" dur="3.2s" begin="1.7999999999999998s" repeatCount="indefinite"/></g><text x="56" y="36" font-size="16" font-weight="700" fill="#0b0b0f">TechFix Accounting System</text><text x="456" y="36" font-size="12" text-anchor="end" fill="#8a8a96">2026</text><text x="24" y="80" font-size="13" fill="#4a4a55">A full accounting cycle, from journal entries to</text><text x="24" y="100" font-size="13" fill="#4a4a55">financial statements.</text><line x1="24" y1="112" x2="456" y2="112" stroke="#e4e4ea"/><text x="24" y="134" font-size="12" font-weight="600" fill="#000033">Node.js · Express · MongoDB</text><text x="456" y="134" font-size="12" text-anchor="end" fill="#8a8a96">View on GitHub ↗</text></svg>
