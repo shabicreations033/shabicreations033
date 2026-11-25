@@ -7,12 +7,19 @@
 <p align="center">I build web and mobile platforms, secure core systems and data dashboards. I care about performance, reliability and code that is easy to maintain.</p>
 
 <p align="center">
-  <a href="https://shabimughal.dev"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/shabi-mughal"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:hi.shabimughal@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  <a href="https://wa.me/923241771864"><b>WhatsApp</b></a> &nbsp;·&nbsp;
-  <a href="https://shabimughal.dev/Shabi-Mughal-Resume.pdf"><b>Resume</b></a>
+  <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-portfolio-dark.svg"><img src="assets/pill-portfolio-light.svg" alt="Portfolio"></picture></a>
+  <a href="https://www.linkedin.com/in/shabi-mughal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-dark.svg"><img src="assets/pill-linkedin-light.svg" alt="LinkedIn"></picture></a>
+  <a href="https://github.com/shabicreations033"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-github-dark.svg"><img src="assets/pill-github-light.svg" alt="GitHub"></picture></a>
+  <a href="mailto:hi.shabimughal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-email-dark.svg"><img src="assets/pill-email-light.svg" alt="Email"></picture></a>
+  <a href="https://wa.me/923241771864"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-whatsapp-dark.svg"><img src="assets/pill-whatsapp-light.svg" alt="WhatsApp"></picture></a>
+  <a href="https://shabimughal.dev/Shabi-Mughal-Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-resume-dark.svg"><img src="assets/pill-resume-light.svg" alt="Resume"></picture></a>
 </p>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-terminal-dark.svg"><img src="assets/t-terminal-light.svg" alt="Quick look"></picture>
+
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg"><img src="assets/terminal-light.svg" alt="Terminal: whoami, cat stack.txt, ls projects/, open shabimughal.dev"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
@@ -38,6 +45,12 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-stack-dark.svg"><img src="assets/t-stack-light.svg" alt="What I work with"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg"><img src="assets/tech-light.svg" alt="React, JavaScript, HTML5, CSS3, Bootstrap, Chart.js, Node.js, Express, Flask, MongoDB, Firebase, Flutter, Dart, Python, C++, Pandas, NumPy, Plotly, Git, GitHub, Postman, Figma"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
+
 <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-credentials-dark.svg"><img src="assets/t-credentials-light.svg" alt="Credentials"></picture></a>
 
 <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-1-dark.svg"><img src="assets/cert-1-light.svg" alt="Open Science Essentials, NASA Open Science (TOPS)" width="24%"></picture></a>
@@ -48,12 +61,6 @@
 <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-6-dark.svg"><img src="assets/cert-6-light.svg" alt="Azure Fundamentals, Microsoft" width="24%"></picture></a>
 <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-7-dark.svg"><img src="assets/cert-7-light.svg" alt="Foundations of Prompt Engineering, AWS" width="24%"></picture></a>
 <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-8-dark.svg"><img src="assets/cert-8-light.svg" alt="Your First Workflows, n8n Academy" width="24%"></picture></a>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-stack-dark.svg"><img src="assets/t-stack-light.svg" alt="What I work with"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Frontend, backend, mobile, databases, languages, data and tools"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
