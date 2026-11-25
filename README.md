@@ -1,60 +1,64 @@
-<h1 align="center">Hi, I'm Muhammad Shoaib Saleem (Shabi) 👋</h1>
-<h3 align="center">Full Stack Software Engineer | Gujranwala, Pakistan 🇵🇰</h3>
-<p align="center"><i>Bold Ideas, Flawless Execution.</i></p>
+<div align="center">
+
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Shabi Mughal, Full Stack Software Engineer"></picture></a>
+
+</div>
+
+<p align="center">I build web and mobile platforms, secure core systems and data dashboards. I care about performance, reliability and code that is easy to maintain.</p>
 
 <p align="center">
-  <a href="https://shabimughal.dev"><img src="https://img.shields.io/badge/Portfolio-shabimughal.dev-1D1D1B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/shabi-mughal"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hi.shabimughal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/923241771864"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://shabimughal.dev"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shabi-mughal"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:hi.shabimughal@gmail.com"><b>Email</b></a> &nbsp;·&nbsp;
+  <a href="https://wa.me/923241771864"><b>WhatsApp</b></a> &nbsp;·&nbsp;
+  <a href="https://shabimughal.dev/Shabi-Mughal-Resume.pdf"><b>Resume</b></a>
 </p>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
-I build web and mobile platforms, secure core systems and data dashboards. I care about performance, reliability and code that is easy to maintain.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-about-dark.svg"><img src="assets/t-about-light.svg" alt="About"></picture>
 
-### 🚀 Current Status
-* 🎓 **Education:** BS Computer Science, University of Central Punjab (2022 – 2026)
-* 🏆 **Certifications:** NASA Open Science (101 & Essentials), Cisco Data Science Essentials with Python, Google AI Essentials, Google UX Design, Azure Fundamentals, AWS Prompt Engineering, n8n Workflows
-* 🔭 **Latest project:** [TaskPoint](https://github.com/shabicreations033/TaskPoint-App), a peer-to-peer labour marketplace for Pakistan on Android and Web.
-* 🌱 **Learning:** cloud architecture (Azure and AWS), workflow automation with n8n and open science.
-* 🌐 **This portfolio:** [shabimughal.dev](https://shabimughal.dev), a pre-rendered React and Vite site with a WebGL ink theme switch. ([Source](https://github.com/shabicreations033/shabimughal.dev))
-* 💼 **Open to:** full-time roles with a team that ships real products.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" alt="Location, education, focus and availability"></picture>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
-### 💻 Technical Arsenal
+<a href="https://shabimughal.dev/projects"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-projects-dark.svg"><img src="assets/t-projects-light.svg" alt="Projects"></picture></a>
 
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) 
+<a href="https://github.com/shabicreations033/TaskPoint-App"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-taskpoint-dark.svg"><img src="assets/card-taskpoint-light.svg" alt="TaskPoint: Peer-to-peer labour marketplace for Android and Web, with CNIC verification and live tracking." width="49%"></picture></a>
+<a href="https://github.com/shabicreations033/AI-Smart-Warehouse-and-Delivery-Management-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-warehouse-dark.svg"><img src="assets/card-warehouse-light.svg" alt="AI Smart Warehouse & Delivery: Role-based logistics platform with a Python service for routes and stock forecasts." width="49%"></picture></a>
+<a href="https://github.com/shabicreations033/Social-media-Analytics-Dashboard"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dashboard-dark.svg"><img src="assets/card-dashboard-light.svg" alt="Social Media Analytical Dashboard: Interactive charts for impressions, engagement and audience growth." width="49%"></picture></a>
+<a href="https://github.com/shabicreations033/Accounting-System"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-techfix-dark.svg"><img src="assets/card-techfix-light.svg" alt="TechFix Accounting System: A full accounting cycle, from journal entries to financial statements." width="49%"></picture></a>
+<a href="https://github.com/shabicreations033/SafeState-Multi-Layered-Cryptography"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-safestate-dark.svg"><img src="assets/card-safestate-light.svg" alt="SafeState Cryptography Suite: Classical ciphers and AES-256 side by side, with Bcrypt password hashing." width="49%"></picture></a>
+<a href="https://github.com/shabicreations033/Lexical-Analyzer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-fluxlex-dark.svg"><img src="assets/card-fluxlex-light.svg" alt="FluxLEX Lexical Analyzer: A web-based lexical analyzer built on a C/Flex tokenization engine." width="49%"></picture></a>
+<a href="https://github.com/shabicreations033/Deadlock-Detection"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-deadlock-dark.svg"><img src="assets/card-deadlock-light.svg" alt="Deadlock Detection: Detects deadlocks with Resource Allocation and Wait-For Graphs." width="49%"></picture></a>
+<a href="https://github.com/shabicreations033/Netflix-Data-Analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-netflix-dark.svg"><img src="assets/card-netflix-light.svg" alt="Netflix Data Analysis: Exploratory analysis of the Netflix catalog with a Pandas cleaning pipeline." width="49%"></picture></a>
 
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
-**Data Science & Tools**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<p>Full write-ups with screenshots are on <a href="https://shabimughal.dev/projects">shabimughal.dev/projects</a>.</p>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
-### 🗂️ Featured Projects
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-credentials-dark.svg"><img src="assets/t-credentials-light.svg" alt="Credentials"></picture></a>
 
-*   **[TaskPoint (Labour Marketplace)](https://github.com/shabicreations033/TaskPoint-App)** <br> A marketplace for Android and Web with CNIC verification, live location tracking, SOS logging and real-time data in Cloud Firestore. *(Flutter, Dart, Firebase)*
-*   **[AI Smart Warehouse & Delivery](https://github.com/shabicreations033/AI-Smart-Warehouse-and-Delivery-Management-System)** <br> A role-based logistics platform. A Python/Flask service orders delivery routes, recommends the least-loaded staff member and forecasts stock from 30 days of sales. *(Node.js, Express, MongoDB, Python, Flask)*
-*   **[SafeState Cryptography Suite](https://github.com/shabicreations033/SafeState-Multi-Layered-Cryptography)** <br> Classical ciphers and AES-256 side by side, with a secure vault, Bcrypt password hashing and a GCD-based key check for the Hill cipher. *(Node.js, Express, MongoDB)*
-*   **[Social Media Analytical Dashboard](https://github.com/shabicreations033/Social-media-Analytics-Dashboard)** <br> A session-protected analytics dashboard with full CRUD management, prepared-statement JSON APIs and interactive Chart.js charts for impressions, engagement and audience growth. *(PHP, MySQL, JavaScript, Chart.js)*
-*   **[TechFix Accounting System](https://github.com/shabicreations033/Accounting-System)** <br> A full accounting cycle, from journal entries and ledger posting to the Income Statement and Statement of Financial Position. *(Node.js, Express, MongoDB)*
-*   **[FluxLEX Lexical Analyzer](https://github.com/shabicreations033/Lexical-Analyzer)** <br> A web-based lexical analyzer built on a C/Flex tokenization engine. *(C, Node.js, Express)*
-*   **[Deadlock Detection](https://github.com/shabicreations033/Deadlock-Detection)** <br> A C++ tool that detects, prevents and resolves deadlocks with Resource Allocation Graphs and Wait-For Graphs. *(C++)*
-*   **[Netflix Data Analysis](https://github.com/shabicreations033/Netflix-Data-Analysis)** <br> An exploratory analysis of the Netflix catalog, with a Pandas cleaning pipeline and Matplotlib, Seaborn and Plotly charts. *(Python)*
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-1-dark.svg"><img src="assets/cert-1-light.svg" alt="Open Science Essentials, NASA Open Science (TOPS)" width="24%"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-2-dark.svg"><img src="assets/cert-2-light.svg" alt="Open Science 101, NASA Open Science (TOPS)" width="24%"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-3-dark.svg"><img src="assets/cert-3-light.svg" alt="Data Science Essentials with Python, Cisco Networking Academy" width="24%"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-4-dark.svg"><img src="assets/cert-4-light.svg" alt="UX Design Professional, Google" width="24%"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-5-dark.svg"><img src="assets/cert-5-light.svg" alt="AI Essentials, Google" width="24%"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-6-dark.svg"><img src="assets/cert-6-light.svg" alt="Azure Fundamentals, Microsoft" width="24%"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-7-dark.svg"><img src="assets/cert-7-light.svg" alt="Foundations of Prompt Engineering, AWS" width="24%"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cert-8-dark.svg"><img src="assets/cert-8-light.svg" alt="Your First Workflows, n8n Academy" width="24%"></picture></a>
 
----
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
-### 📊 GitHub Analytics
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-stack-dark.svg"><img src="assets/t-stack-light.svg" alt="What I work with"></picture>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=shabicreations033&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=shabicreations033&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=shabicreations033&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" alt="Frontend, backend, mobile, databases, languages, data and tools"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
+
+<div align="center">
+
+<a href="mailto:hi.shabimughal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" alt="Let's build something. Contact: hi.shabimughal@gmail.com"></picture></a>
+
+</div>
