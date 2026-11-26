@@ -7,29 +7,19 @@
 <p align="center">I build web and mobile platforms, secure core systems and data dashboards. I care about performance, reliability and code that is easy to maintain.</p>
 
 <p align="center">
-  <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" alt="Visit portfolio"></picture></a>&nbsp;
-  <a href="https://shabimughal.dev/Shabi-Mughal-Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg"><img src="assets/btn-resume-light.svg" alt="Resume"></picture></a>&nbsp;
-  <a href="https://www.linkedin.com/in/shabi-mughal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;
-  <a href="https://github.com/shabicreations033"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><img src="assets/btn-github-light.svg" alt="GitHub"></picture></a>&nbsp;
-  <a href="mailto:hi.shabimughal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email"></picture></a>&nbsp;
-  <a href="https://wa.me/923241771864"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-dark.svg"><img src="assets/btn-whatsapp-light.svg" alt="WhatsApp"></picture></a>
+  <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sm-btn-portfolio-dark.svg"><img src="assets/sm-btn-portfolio-light.svg" alt="Visit portfolio"></picture></a>&nbsp;
+  <a href="https://shabimughal.dev/Shabi-Mughal-Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sm-btn-resume-dark.svg"><img src="assets/sm-btn-resume-light.svg" alt="Resume"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/shabi-mughal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sm-btn-linkedin-dark.svg"><img src="assets/sm-btn-linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;
+  <a href="https://github.com/shabicreations033"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sm-btn-github-dark.svg"><img src="assets/sm-btn-github-light.svg" alt="GitHub"></picture></a>&nbsp;
+  <a href="mailto:hi.shabimughal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sm-btn-email-dark.svg"><img src="assets/sm-btn-email-light.svg" alt="Email"></picture></a>&nbsp;
+  <a href="https://wa.me/923241771864"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sm-btn-whatsapp-dark.svg"><img src="assets/sm-btn-whatsapp-light.svg" alt="WhatsApp"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-card-dark.svg"><img src="assets/t-card-light.svg" alt="Personal card"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-profile-dark.svg"><img src="assets/t-profile-light.svg" alt="Profile"></picture>
 
-<div align="center">
-
-<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-flip-dark.svg"><img src="assets/card-flip-light.svg" alt="Personal card: Shabi Mughal, Full Stack Software Engineer, shabimughal.dev"></picture></a>
-
-</div>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-about-dark.svg"><img src="assets/t-about-light.svg" alt="About"></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" alt="Location, education, focus and availability"></picture>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg"><img src="assets/profile-light.svg" alt="Personal card for Shabi Mughal, Full Stack Software Engineer, based in Gujranwala, Pakistan. Open to full-time roles."></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
