@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="28" viewBox="0 0 82 28" font-family="Montserrat,'Segoe UI',Helvetica,Arial,sans-serif"><rect x=".5" y=".5" width="81" height="27" rx="2" fill="none" stroke="#586BFF"/><g transform="translate(11,8) scale(0.5)" fill="none" stroke="#586BFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3" />
+  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" />
+  <path d="m7 10 5 5 5-5" /></g><text x="29" y="18" font-size="10.5" font-weight="500" fill="#586BFF">Resume</text></svg>
