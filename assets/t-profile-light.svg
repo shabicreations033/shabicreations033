@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="70" viewBox="0 0 1000 70" font-family="Montserrat,'Segoe UI',Helvetica,Arial,sans-serif"><g transform="translate(4,6) scale(1.0833333333333333)" fill="none" stroke="#000033" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M13 19a4 4 0 00-8 0" />
-  <path d="M16 10h2" />
-  <path d="M16 14h2" />
-  <circle cx="9" cy="12" r="3" />
-  <rect x="2" y="5" width="20" height="14" rx="2" /></g><text x="42" y="28" font-size="26" font-weight="700" fill="#1d1d1b" letter-spacing="-.5">Profile</text><text x="42" y="52" font-size="13" fill="#6b7280">My card, where I am based and what I am open to.</text><rect x="4" y="62" width="992" height="1.5" fill="#e5e7eb"/><rect x="4" y="62" width="60" height="1.5" fill="#000033"><animate attributeName="x" dur="6s" repeatCount="indefinite" values="4;936;4" keyTimes="0;.5;1" calcMode="spline" keySplines=".4 0 .2 1;.4 0 .2 1"/></rect></svg>
