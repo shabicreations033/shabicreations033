@@ -7,19 +7,19 @@
 <p align="center">I build web and mobile platforms, secure core systems and data dashboards. I care about performance, reliability and code that is easy to maintain.</p>
 
 <p align="center">
-  <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-portfolio-dark.svg"><img src="assets/pill-portfolio-light.svg" alt="Portfolio"></picture></a>
-  <a href="https://www.linkedin.com/in/shabi-mughal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-linkedin-dark.svg"><img src="assets/pill-linkedin-light.svg" alt="LinkedIn"></picture></a>
-  <a href="https://github.com/shabicreations033"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-github-dark.svg"><img src="assets/pill-github-light.svg" alt="GitHub"></picture></a>
-  <a href="mailto:hi.shabimughal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-email-dark.svg"><img src="assets/pill-email-light.svg" alt="Email"></picture></a>
-  <a href="https://wa.me/923241771864"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-whatsapp-dark.svg"><img src="assets/pill-whatsapp-light.svg" alt="WhatsApp"></picture></a>
-  <a href="https://shabimughal.dev/Shabi-Mughal-Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pill-resume-dark.svg"><img src="assets/pill-resume-light.svg" alt="Resume"></picture></a>
+  <a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" alt="Visit portfolio"></picture></a>&nbsp;
+  <a href="https://shabimughal.dev/Shabi-Mughal-Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg"><img src="assets/btn-resume-light.svg" alt="Resume"></picture></a>&nbsp;
+  <a href="https://www.linkedin.com/in/shabi-mughal"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" alt="LinkedIn"></picture></a>&nbsp;
+  <a href="https://github.com/shabicreations033"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><img src="assets/btn-github-light.svg" alt="GitHub"></picture></a>&nbsp;
+  <a href="mailto:hi.shabimughal@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" alt="Email"></picture></a>&nbsp;
+  <a href="https://wa.me/923241771864"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-whatsapp-dark.svg"><img src="assets/btn-whatsapp-light.svg" alt="WhatsApp"></picture></a>
 </p>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-terminal-dark.svg"><img src="assets/t-terminal-light.svg" alt="Quick look"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-preview-dark.svg"><img src="assets/t-preview-light.svg" alt="Live preview"></picture>
 
-<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg"><img src="assets/terminal-light.svg" alt="Terminal: whoami, cat stack.txt, ls projects/, open shabimughal.dev"></picture></a>
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/preview-dark.svg"><img src="assets/preview-light.svg" alt="Preview of shabimughal.dev: home, projects, about and contact pages"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
