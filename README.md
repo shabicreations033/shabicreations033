@@ -17,9 +17,13 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-preview-dark.svg"><img src="assets/t-preview-light.svg" alt="Live preview"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/t-card-dark.svg"><img src="assets/t-card-light.svg" alt="Personal card"></picture>
 
-<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/preview-dark.svg"><img src="assets/preview-light.svg" alt="Preview of shabimughal.dev: home, projects, about and contact pages"></picture></a>
+<div align="center">
+
+<a href="https://shabimughal.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-flip-dark.svg"><img src="assets/card-flip-light.svg" alt="Personal card: Shabi Mughal, Full Stack Software Engineer, shabimughal.dev"></picture></a>
+
+</div>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" alt=""></picture>
 
